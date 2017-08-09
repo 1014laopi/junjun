@@ -1,0 +1,13 @@
+step1: 查看文件夹是否存在
+step2: 复制文件夹
+-------------------------
+step3: 移动umap文件
+step4: 修改配置文件
+step5: 修改umap文件
+step6: 修改uasset文件
+step7: 移动saveGame文件
+step8: 生成压缩文件
+
+
+a: 项目文件损坏,无法完成备份
+b: 
